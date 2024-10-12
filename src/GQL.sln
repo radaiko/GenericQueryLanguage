@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericQueryLanguage", "GenericQueryLanguage\GenericQueryLanguage.csproj", "{201642D5-730B-470B-AE88-56412906D2D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericQueryLanguageTests", "GenericQueryLanguageTests\GenericQueryLanguageTests.csproj", "{5A983715-3232-4BCE-8177-5E8C8866F897}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{201642D5-730B-470B-AE88-56412906D2D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{201642D5-730B-470B-AE88-56412906D2D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{201642D5-730B-470B-AE88-56412906D2D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{201642D5-730B-470B-AE88-56412906D2D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A983715-3232-4BCE-8177-5E8C8866F897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A983715-3232-4BCE-8177-5E8C8866F897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A983715-3232-4BCE-8177-5E8C8866F897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A983715-3232-4BCE-8177-5E8C8866F897}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
